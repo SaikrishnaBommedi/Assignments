@@ -1,4 +1,4 @@
-'''#compound assignment operators
+#compound assignment operators
 a = 12
 a &=7 
 print(a) #4
@@ -71,7 +71,7 @@ print(a)
 a = int(input("enter first val:"))
 b = int(input("enter second val:"))
 print("sum of values:",a+b)
-'''
+
 #Bitwise operators
 a = 10
 b = 25
